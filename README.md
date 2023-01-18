@@ -3,4 +3,4 @@
 **Stack:**
 1. Html
 2. Css
-3. Sass
+3. Scss
