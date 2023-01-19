@@ -1,4 +1,4 @@
-# Natours | Advanced Css course project
+# Natours | Advanced Html/Css course project
 
 **Stack:**
 1. Html
