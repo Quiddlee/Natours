@@ -2,5 +2,5 @@
 
 **Stack:**
 1. Html
-2. Css
-3. Scss
+2. Scss
+3. BEM
