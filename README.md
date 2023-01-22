@@ -3,4 +3,4 @@
 **Stack:**
 1. Html
 2. Scss
-3. BEM
+3. BEM Methodology 
