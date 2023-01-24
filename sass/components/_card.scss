@@ -84,7 +84,7 @@
 
   &__heading-span {
     padding: 1rem 1.5rem;
-    box-decoration-break: clone;
+    -webkit-box-decoration-break: clone;
 
     &--1 {
       background-image: linear-gradient(
@@ -133,10 +133,7 @@
 
   // Back side styling
   &__cta {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+    @include center-horizontal-vertical;
     width: 90%;
     text-align: center;
 
