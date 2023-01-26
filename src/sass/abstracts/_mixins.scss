@@ -27,8 +27,11 @@ $breakpoint argument choices:
 - tab-land
 - big-desktop
 
+Order: Base + typography > general + grid > page layout > components
+
 1em = 16px
 */
+
 @mixin respond($breakpoint) {
   @if $breakpoint == phone {
     @media (max-width: 37.5em) { @content };    // 600px
