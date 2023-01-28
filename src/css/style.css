@@ -634,7 +634,7 @@ body {
         height: 60%; } }
   .popup__img {
     display: block;
-    width: 132%;
+    max-width: 132%;
     transform: translateX(-6rem); }
     @media (max-width: 75em) {
       .popup__img {

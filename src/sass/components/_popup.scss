@@ -64,7 +64,7 @@
 
   &__img {
     display: block;
-    width: 132%;
+    max-width: 132%;
     transform: translateX(-6rem);
 
     @include respond(tab-land) {
