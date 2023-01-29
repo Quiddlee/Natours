@@ -69,8 +69,8 @@
 
   &__img {
     display: block;
-    max-width: 100%;
-    //transform: translateX(-6rem);
+    max-width: 132%;
+    transform: translateX(-6rem);
 
     @include respond(tab-land) {
       transform: translateX(0);
