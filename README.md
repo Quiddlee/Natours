@@ -1,6 +1,6 @@
 # Natours | Advanced Html/Css course project
 
-**Preview: https://quiddlee.github.io/natours**
+**Preview: https://quiddlee.github.io/Natours**
 
 **Stack:**
 1. Html
